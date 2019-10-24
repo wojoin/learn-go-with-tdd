@@ -13,6 +13,7 @@ https://studygolang.gitbook.io/learn-go-with-tests/gou-jian-ying-yong-cheng-xu/h
 我们强调了编写测试并**观察失败（红色）**，编写 _最少量_ 代码跑通测试（绿色）然后重构的 TDD 过程。
 
 #### 先写测试
+add server_test.go
 #### 尝试运行测试
 #### 编写最少量的代码让测试运行起来，然后检查错误输出
 #### 编写足够的代码让它通过
